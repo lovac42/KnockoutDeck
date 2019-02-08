@@ -1,0 +1,2 @@
+# KnockoutDeck
+AnkiAddon: Subset Learning
